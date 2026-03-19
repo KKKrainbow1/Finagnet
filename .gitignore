@@ -1,0 +1,19 @@
+# 数据文件（太大，不上传）
+data/
+
+# 日志
+logs/
+
+# 模型权重
+models/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# 压缩包
+*.tar.gz
+*.zip
